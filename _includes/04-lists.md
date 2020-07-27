@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+:yum:
+1. Italian
+2. Mexican
+3. Steak
